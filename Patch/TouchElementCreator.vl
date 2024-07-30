@@ -1188,7 +1188,7 @@
                   <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
                   <Choice Kind="ProcessAppFlag" Name="Renderer" />
                 </p:NodeReference>
-                <Pin Id="BrsqlSqSta9NjP0sdf2vXm" Name="Bounds" Kind="InputPin" DefaultValue="298, 80, 366, 760" />
+                <Pin Id="BrsqlSqSta9NjP0sdf2vXm" Name="Bounds" Kind="InputPin" DefaultValue="1200, 16, 366, 760" />
                 <Pin Id="VPt4sdHDvcKPzeSYg9Jfuu" Name="Save Bounds" Kind="InputPin" />
                 <Pin Id="HjH6lkbZeyTP3j40euMMF2" Name="Input" Kind="InputPin" />
                 <Pin Id="GWRUkY6OjWwOdb378SSZg2" Name="Color" Kind="InputPin" DefaultValue="0.13, 0.13, 0.13, 1" />

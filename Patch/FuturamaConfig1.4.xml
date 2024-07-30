@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE ROOT PUBLIC "" ""[]>
+<Spread>
+  <Item AnimationFPS="60" Enable="True" ExternalTriggerIndex="-1" PlayStyle="AutoplayLoop" Position="-1.57103, -3.639087" Size="1.024, 1.024" TouchArea="-3.132557, -5.069407, 2.989007, 2.022832" TouchAreaPos="-1.638054, -4.057991" TouchAreaSize="2.989007, 2.022832" TriggerFilePath="assets\0-Features\001_Wolke\00_Standbild\000_wolke.png">
+    <SubElements>
+      <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="-1.251232, -3.12816" Size="1.024, 1.024" TouchAreaSize="0.08, 0.08" TriggerAudioFilePath="assets\0-Features\001_Wolke\02_Ton\001_wolke.wav" TriggerFilePath="assets\0-Features\001_Wolke\01_Animation\000_daten.png" />
+    </SubElements>
+  </Item>
+  <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="-7.53848, -2.74554" Size="1.024, 1.024" TouchArea="-8.053832, -3.727401, 2.026959, 1.648016" TouchAreaPos="-7.040353, -2.903393" TouchAreaSize="2.026959, 1.648016" TriggerAudioFilePath="assets\0-Features\002_Ballon\02_Ton\001_ballon.wav" TriggerFilePath="assets\0-Features\002_Ballon\01_Animation\000_ballon.png" />
+  <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="-6.675306, 2.613391" Size="1.024, 1.024" TouchArea="-7.486652, 1.123308, 1.638306, 1.057276" TouchAreaPos="-6.667499, 1.651946" TouchAreaSize="1.638306, 1.057276" TriggerAudioFilePath="assets\0-Features\003_Müll\02_Ton\001_müll.wav" TriggerFilePath="assets\0-Features\003_Müll\01_Animation\000_müll.png" />
+  <Item AnimationFPS="5" Enable="True" ExternalTriggerIndex="-1" PlayStyle="AutoplayLoop" Position="-0.3565809, 0.1483272" Size="1.024, 1.024" TouchArea="2.153852, -2.183669, 0.8493737, 0.9120905" TouchAreaPos="2.578539, -1.727624" TouchAreaSize="0.8493737, 0.9120905" TriggerFilePath="assets\0-Features\004_2040\01_Animation\000_2040.png" />
+  <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" Position="5.365114, 2.147513" Size="1.024, 1.024" TouchArea="4.874937, 1.574387, 0.8412479, 1.089593" TouchAreaPos="5.295561, 2.119183" TouchAreaSize="0.8412479, 1.089593" TriggerFilePath="assets\1-Megatrends\001_Globalisierung\00_Standbild\globalisierung.png">
+    <SubElements>
+      <Item AnimationFPS="12.02055" Enable="True" ExternalTriggerIndex="-1" FramePosition="0.5958903" PlayStyle="OneShotRetrigger" Position="-1.765941, 1.378479" Size="1.024, 1.024" TouchAreaSize="0.08, 0.08" TriggerAudioFilePath="assets\1-Megatrends\001_Globalisierung\02_Ton\001_global.wav" TriggerFilePath="assets\1-Megatrends\001_Globalisierung\01_Animation\000_global.png" />
+    </SubElements>
+  </Item>
+  <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="2.79595, 2.592003" Size="1.024, 1.024" TouchArea="2.202885, 2.090302, 1.066756, 1.336505" TouchAreaPos="2.736263, 2.758555" TouchAreaSize="1.066756, 1.336505" TriggerAudioFilePath="assets\1-Megatrends\002_NewWork\02_Ton\001_tafel.wav" TriggerFilePath="assets\1-Megatrends\002_NewWork\01_Animation\001_tafel.png" />
+  <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" Position="3.101652, -0.02035385" Size="1.024, 1.024" TouchArea="2.607084, -0.4611036, 0.9468483, 0.9101573" TouchAreaPos="3.080508, -0.006024897" TouchAreaSize="0.9468483, 0.9101573" TriggerFilePath="assets\1-Megatrends\003_SilverSociety\00_Standbild\silver society.png">
+    <SubElements>
+      <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="7.905726, -1.647982" Size="1.024, 1.024" TouchAreaSize="0.08, 0.08" TriggerAudioFilePath="assets\1-Megatrends\003_SilverSociety\02_Ton\001_fallschirm.wav" TriggerFilePath="assets\1-Megatrends\003_SilverSociety\01_Animation\000_fallschirm.png" />
+    </SubElements>
+  </Item>
+  <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="1.657016, 1.280523" Size="1.024, 1.024" TouchArea="1.137678, 0.8367733, 0.9938923, 0.8638075" TouchAreaPos="1.634624, 1.268677" TouchAreaSize="0.9938923, 0.8638075" TriggerFilePath="assets\1-Megatrends\004_Konnektivität\00_Standbild\konnektivität.png">
+    <SubElements>
+      <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="-0.9434894, 1.196255" Size="1.024, 1.024" TouchAreaSize="0.08, 0.08" TriggerAudioFilePath="assets\1-Megatrends\004_Konnektivität\02_Ton\001_signale.wav" TriggerFilePath="assets\1-Megatrends\004_Konnektivität\01_Animation\000_signale.png" />
+    </SubElements>
+  </Item>
+  <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="0.9997435, -0.3075358" Size="1.024, 1.024" TouchArea="0.4818376, -0.8350348, 0.9616251, 1.05564" TouchAreaPos="0.9626502, -0.3072149" TouchAreaSize="0.9616251, 1.05564" TriggerFilePath="assets\1-Megatrends\005_Urbanisierung\00_Standbild\urbanisierung.png">
+    <SubElements>
+      <Item AnimationFPS="2" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="-0.9062935, -1.303026" Size="1.024, 1.024" TouchAreaSize="0.08, 0.08" TriggerAudioFilePath="assets\1-Megatrends\005_Urbanisierung\02_Ton\001_lichter.wav" TriggerFilePath="assets\1-Megatrends\005_Urbanisierung\01_Animation\000_lichter.png" />
+    </SubElements>
+  </Item>
+  <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="1.110397, 2.802085" Size="1.024, 1.024" TouchArea="0.410034, 2.140341, 1.36, 1.36" TouchAreaPos="1.090034, 2.820341" TouchAreaSize="1.36, 1.36" TriggerFilePath="assets\1-Megatrends\006_Gesundheit\00_Standbild\gesundheit.png">
+    <SubElements>
+      <Item AnimationFPS="6" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="-0.2094291, 2.516848" Size="1.024, 1.024" TouchAreaSize="0.08, 0.08" TriggerAudioFilePath="assets\1-Megatrends\006_Gesundheit\02_Ton\001_roboter.wav" TriggerFilePath="assets\1-Megatrends\006_Gesundheit\01_Animation\000_roboter.png" />
+    </SubElements>
+  </Item>
+  <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="-0.368389, 3.792321" Size="1.024, 1.024" TouchArea="-1.072396, 3.105112, 1.36, 1.36" TouchAreaPos="-0.3923961, 3.785112" TouchAreaSize="1.36, 1.36" TriggerFilePath="assets\1-Megatrends\007_Wissenskultur\00_Standbild\wissenskultur.png">
+    <SubElements>
+      <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="0.9252313, 3.844069" Size="1.024, 1.024" TouchAreaSize="0.08, 0.08" TriggerAudioFilePath="assets\1-Megatrends\007_Wissenskultur\02_Ton\001_bildschirm.wav" TriggerFilePath="assets\1-Megatrends\007_Wissenskultur\01_Animation\000_bildschirm.png" />
+    </SubElements>
+  </Item>
+  <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="-0.9904151, 0.7369756" Size="1.024, 1.024" TouchArea="-1.39124, 0.4500215, 0.6961788, 0.5101101" TouchAreaPos="-1.043151, 0.7050765" TouchAreaSize="0.6961788, 0.5101101" TriggerFilePath="assets\1-Megatrends\008_GenderShift\00_Standbild\gender shift.png">
+    <SubElements>
+      <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="-0.9789196, -0.01703442" Size="1.024, 1.024" TouchAreaSize="0.08, 0.08" TriggerAudioFilePath="assets\1-Megatrends\008_GenderShift\02_Ton\001_wc.wav" TriggerFilePath="assets\1-Megatrends\008_GenderShift\01_Animation\000_wc.png" />
+    </SubElements>
+  </Item>
+  <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="-2.425212, -0.4744053" Size="1.024, 1.024" TouchArea="-2.844204, -0.7701655, 0.8207606, 0.7086706" TouchAreaPos="-2.433824, -0.4158302" TouchAreaSize="0.8207606, 0.7086706" TriggerFilePath="assets\1-Megatrends\009_Individualisierung\00_Standbild\individualisierung.png">
+    <SubElements>
+      <Item AnimationFPS="8" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="-2.665227, -1.487039" Size="1.024, 1.024" TouchAreaSize="0.08, 0.08" TriggerAudioFilePath="assets\1-Megatrends\009_Individualisierung\02_Ton\001_tinyhouses.wav" TriggerFilePath="assets\1-Megatrends\009_Individualisierung\01_Animation\000_tinyhouses.png" />
+    </SubElements>
+  </Item>
+  <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" Position="-4.699608, -0.933288" Size="1.024, 1.024" TouchArea="-5.357694, -1.565197, 1.36, 1.36" TouchAreaPos="-4.677694, -0.8851974" TouchAreaSize="1.36, 1.36" TriggerFilePath="assets\1-Megatrends\010_NeoÖkologie\00_Standbild\neo-ökologie.png">
+    <SubElements>
+      <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="-3.829311, -1.270505" Size="1.024, 1.024" TouchAreaSize="0.08, 0.08" TriggerAudioFilePath="assets\1-Megatrends\010_NeoÖkologie\02_Ton\001_wasserhahn.wav" TriggerFilePath="assets\1-Megatrends\010_NeoÖkologie\01_Animation\000_wasserhahn.png" />
+    </SubElements>
+  </Item>
+  <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="-5.278837, 0.359787" Size="1.024, 1.024" TouchArea="-5.805063, -0.02603245, 1.066676, 0.8191505" TouchAreaPos="-5.271725, 0.3835428" TouchAreaSize="1.066676, 0.8191505" TriggerFilePath="assets\1-Megatrends\011_Mobilität\00_Standbild\mobilität.png">
+    <SubElements>
+      <Item AnimationFPS="8" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="-2.782113, 0.1461286" Size="1.024, 1.024" TouchAreaSize="0.08, 0.08" TriggerAudioFilePath="assets\1-Megatrends\011_Mobilität\02_Ton\001_auto.wav" TriggerFilePath="assets\1-Megatrends\011_Mobilität\01_Animation\000_auto.png" />
+    </SubElements>
+  </Item>
+  <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="-4.927862, 3.481593" Size="1.024, 1.024" TouchArea="-5.402964, 3.094612, 0.88981, 0.7816137" TouchAreaPos="-4.958059, 3.485419" TouchAreaSize="0.88981, 0.7816137" TriggerFilePath="assets\1-Megatrends\012_Sicherheit\00_Standbild\sicherheit.png">
+    <SubElements>
+      <Item AnimationFPS="20" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="-4.580689, 3.361892" Size="1.024, 1.024" TouchAreaSize="0.08, 0.08" TriggerAudioFilePath="assets\1-Megatrends\012_Sicherheit\02_Ton\001_schloss.wav" TriggerFilePath="assets\1-Megatrends\012_Sicherheit\01_Animation\000_schloss.png" />
+    </SubElements>
+  </Item>
+</Spread>

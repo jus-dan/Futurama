@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE ROOT PUBLIC "" ""[]>
+<Spread>
+  <Item AnimationFPS="60" Enable="True" ExternalTriggerIndex="-1" PlayStyle="AutoplayLoop" Position="-1.57103, -3.639087" Size="1.024, 1.024" TouchArea="-3.132557, -5.069407, 2.989007, 2.022832" TouchAreaPos="-1.638054, -4.057991" TouchAreaSize="2.989007, 2.022832" TriggerFilePath="assets\0-Features\001_Wolke\00_Standbild\000_wolke.png">
+    <SubElements>
+      <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="-1.251232, -3.12816" Size="1.024, 1.024" TouchAreaSize="0.08, 0.08" TriggerAudioFilePath="assets\0-Features\001_Wolke\02_Ton\001_wolke.wav" TriggerFilePath="assets\0-Features\001_Wolke\01_Animation\000_daten.png" />
+    </SubElements>
+  </Item>
+  <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="-7.53848, -2.74554" Size="1.024, 1.024" TouchArea="-8.053833, -3.727401, 2.026959, 1.648016" TouchAreaPos="-7.040353, -2.903393" TouchAreaSize="2.026959, 1.648016" TriggerAudioFilePath="assets\0-Features\002_Ballon\02_Ton\001_ballon.wav" TriggerFilePath="assets\0-Features\002_Ballon\01_Animation\000_ballon.png" />
+  <Item AnimationFPS="10" Enable="True" ExternalTriggerIndex="-1" PlayStyle="OneShotRetrigger" Position="-6.693771, 2.604435" Size="1.024, 1.024" TouchArea="-7.486652, 1.123308, 1.638306, 1.057276" TouchAreaPos="-6.667499, 1.651946" TouchAreaSize="1.638306, 1.057276" TriggerAudioFilePath="assets\0-Features\003_Müll\02_Ton\001_müll.wav" TriggerFilePath="assets\0-Features\003_Müll\01_Animation\000_müll.png" />
+</Spread>
